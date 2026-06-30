@@ -1,1 +1,1 @@
-https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/collapse/timelapses/cbc601ae-1eab-4201-b72c-cb59c88cd181/timelapse.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=0202b4ab358a840324620139ad382aee%2F20260629%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260629T192317Z&X-Amz-Expires=3600&X-Amz-Signature=8570ec45cf322e2d6ce367d6d3eedcf1d158dc1c4e75bbbed734edd47d3286c7&X-Amz-SignedHeaders=host&x-id=GetObject  
+https://lookout.hackclub.com/api/media/aa44a0d7-80a0-4d84-bb8b-95a1e5659762/video.mp4
